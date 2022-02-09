@@ -1,9 +1,8 @@
 
 **Twitter Project** is a basic twitter app to read your tweets.
 
-Time spent: **5** hours spent in total
 
-## User Stories
+
 
 
 
