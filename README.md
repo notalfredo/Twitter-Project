@@ -21,12 +21,6 @@ Time spent: **5** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/bZ4RJ9jPV4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-
-
-## Video Walkthrough
 
 
 
